@@ -1,7 +1,7 @@
 My 100 days of coding projects 
 ========
 
-A list of practical problems solved in python and c#(currently). These projects are divided in multiple categories, and each category has its own folder.
+A list of practical problems solved in python(currently). These projects are divided in multiple categories, and each category has its own folder. Each project has its own folder and README file with little explaination of code and other files related if required by program.
 
 To get started, simply fork this repo.
 
@@ -268,9 +268,9 @@ Tools
 
 **92-Keylogger** - Create a simple keylogger that when executed captures all the keys pressed with a window context and parse them into a file.
 
-**93-Personal notepad** - Aim here is to develop a tool in which you can write whatever you want and it will be saved encrypted text in a file named with first word of input stream and current timestamp.
+**93-Personal notepad I** - Aim here is to develop a tool in which you can write whatever you want and it will be saved encrypted text in a file named with first word of input stream and current timestamp.
 
-**94-Personal notepad** - Develop a tool that can view a file encrypted with #93 notepad.
+**94-Personal notepad II** - Develop a tool that can view a file encrypted with #93 notepad.
 
 **95-Youtube Viewbot** - Simplest youtube viewbot that watches given url in a loop.
 
